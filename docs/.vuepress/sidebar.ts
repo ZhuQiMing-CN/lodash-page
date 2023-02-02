@@ -34,18 +34,62 @@ export default [
       {
         text: '_drop',
         link: '/array/drop.md'
+      },
+      {
+        text: '_dropRight',
+        link: '/array/dropRight.md'
+      },
+      {
+        text: '_dropRightWhile',
+        link: '/array/dropRightWhile.md'
+      },
+      {
+        text: '_dropWhile',
+        link: '/array/dropWhile.md'
+      },
+      {
+        text: '_fill',
+        link: '/array/fill.md'
+      },
+      {
+        text: '_findIndex',
+        link: '/array/findIndex.md'
+      },
+      {
+        text: '_findLastIndex',
+        link: '/array/findLastIndex.md'
+      },
+      {
+        text: '_first -> head',
+        link: '/array/firsthead.md'
+      },
+      {
+        text: '_flatten',
+        link: '/array/flatten.md'
+      },
+      {
+        text: '_flattenDeepn',
+        link: '/array/flattenDeep.md'
+      },
+      {
+        text: '_flattenDepth',
+        link: '/array/flattenDepth.md'
       }
     ]
   },
   {
     text: '函数',
+    collapsible: true,
     link: '/function',
     children: [
       {
         text: '_after',
         link: '/function/after.md'
       },
-      '/function/ary.md'
+      {
+        text: '_ary',
+        link: '/function/ary.md'
+      }
     ]
   }
 ]
