@@ -10,6 +10,30 @@ export default [
       {
         text: '_chunk',
         link: '/array/chunk.md'
+      },
+      {
+        text: '_compact',
+        link: '/array/compact.md'
+      },
+      {
+        text: '_concat',
+        link: '/array/concat.md'
+      },
+      {
+        text: '_difference',
+        link: '/array/difference.md'
+      },
+      {
+        text: '_differenceBy',
+        link: '/array/differenceBy.md'
+      },
+      {
+        text: '_differenceWith',
+        link: '/array/differenceWith.md'
+      },
+      {
+        text: '_drop',
+        link: '/array/drop.md'
       }
     ]
   },

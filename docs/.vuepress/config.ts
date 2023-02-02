@@ -6,7 +6,7 @@ import sidebar from './sidebar'
 export default defineUserConfig({
   port: 9087,
   lang: 'zh-CN',
-  base: '/lodash-page/',
+  base: process.env.NODE_ENV === 'development' ? '/' : '/lodash-page/',
   title: 'lodash 中文文档',
   description: 'Lodash 是一个一致性、模块化、高性能的 JavaScript 实用工具库。',
   head: [['link', { rel: 'icon', href: '/images/favicon.ico' }]],
@@ -23,7 +23,9 @@ export default defineUserConfig({
         link: 'https://lodash.com'
       }
     ],
-    sidebar: sidebar
+    sidebar: sidebar,
+    editLink: false,
+    contributors: false
   }),
   plugins: [
     searchPlugin()
