@@ -74,6 +74,106 @@ export default [
       {
         text: '_flattenDepth',
         link: '/array/flattenDepth.md'
+      },
+      {
+        text: '_fromPairs',
+        link: '/array/fromPairs.md'
+      },
+      {
+        text: '_head',
+        link: '/array/head.md'
+      },
+      {
+        text: '_indexOf',
+        link: '/array/indexOf.md'
+      },
+      {
+        text: '_initial',
+        link: '/array/initial.md'
+      },
+      {
+        text: '_intersection',
+        link: '/array/intersection.md'
+      },
+      {
+        text: '_intersectionBy',
+        link: '/array/intersectionBy.md'
+      },
+      {
+        text: '_intersectionWith',
+        link: '/array/intersectionWith.md'
+      },
+      {
+        text: '_join',
+        link: '/array/join.md'
+      },
+      {
+        text: '_last',
+        link: '/array/last.md'
+      },
+      {
+        text: '_lastIndexOf',
+        link: '/array/lastIndexOf.md'
+      },
+      {
+        text: '_nth',
+        link: '/array/nth.md'
+      },
+      {
+        text: '_pull',
+        link: '/array/pull.md'
+      },
+      {
+        text: '_pullAll',
+        link: '/array/pullAll.md'
+      },
+      {
+        text: '_pullAllBy',
+        link: '/array/pullAllBy.md'
+      },
+      {
+        text: '_pullAllWith',
+        link: '/array/pullAllWith.md'
+      },
+      {
+        text: '_pullAt',
+        link: '/array/pullAt.md'
+      },
+      {
+        text: '_remove',
+        link: '/array/remove.md'
+      },
+      {
+        text: '_reverse',
+        link: '/array/reverse.md'
+      },
+      {
+        text: '_slice',
+        link: '/array/slice.md'
+      },
+      {
+        text: '_sortedIndex',
+        link: '/array/sortedIndex.md'
+      },
+      {
+        text: '_sortedIndexBy',
+        link: '/array/sortedIndexBy.md'
+      },
+      {
+        text: '_sortedIndexOf',
+        link: '/array/sortedIndexOf.md'
+      },
+      {
+        text: '_sortedLastIndex',
+        link: '/array/sortedLastIndex.md'
+      },
+      {
+        text: '_sortedLastIndexBy',
+        link: '/array/sortedLastIndexBy.md'
+      },
+      {
+        text: '_sortedLastIndexOf',
+        link: '/array/sortedLastIndexOf.md'
       }
     ]
   },
