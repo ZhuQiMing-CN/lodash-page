@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-759eed2f","path":"/array/","title":"函数","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1686643938000},"filePathRelative":"array/README.md"}');export{a as data};
